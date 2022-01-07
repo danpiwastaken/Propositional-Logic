@@ -1,2 +1,2 @@
 # Propositional-Logic
-PL-Resolution in Python
+A simple implement of PL-Resolution written in Python for a class project
